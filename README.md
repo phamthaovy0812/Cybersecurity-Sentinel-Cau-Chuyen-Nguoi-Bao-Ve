@@ -11,7 +11,7 @@ Người chơi sẽ hóa thân thành nhân vật chính - một thanh niên tr�
 Là một thanh niên chưa có gì trong tay, người chơi sẽ trải qua các giai đoạn thử thách để trở thành thực tập sinh, cảnh sát dự bị, cảnh sát tại ngũ và cuối cùng đạt được danh hiệu cảnh sát tài ba từ sở cảnh sát.
 Người chơi sẽ lần lượt nhận nhiệm vụ tại Sở cảnh sát, di chuyển đến các địa điểm được chỉ định trong thành phố để nhận hướng dẫn và thực hiện nhiệm vụ, giúp đỡ người dân trong thành phố giải quyết các khó khăn,...
 ## Nội dung chi tiết
-###Trò chơi hỗ trợ các chức năng phụ:
+### Trò chơi hỗ trợ các chức năng phụ:
 - Quản lý tiến trình
 - Quản lý âm thanh
 - Quản lý hồ cơ cá nhân
