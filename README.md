@@ -31,3 +31,5 @@ Người chơi sẽ lần lượt nhận nhiệm vụ tại Sở cảnh sát, di
 ### Cấp 4: Giai đoạn cảnh sát tại ngũ
 - Gamplay: Giúp đỡ người dân trong thành phố
 - Nội dung ATTT được truyền tải: Tiếp xúc với thực tế của các hình thức lừa đảo trên mạng
+### File dowload game: 
+- https://github.com/bdung/Cyber-Security-Sentinel
